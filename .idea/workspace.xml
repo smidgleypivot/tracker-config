@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../assignment-submission" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pal-tracker" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../pal-tracker-distributed" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="74" />
+    <option name="y" value="27" />
+    <option name="width" value="1445" />
+    <option name="height" value="1413" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+</project>
